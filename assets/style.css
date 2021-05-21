@@ -62,3 +62,10 @@ body {
   padding: 30px;
   margin-top: 20px;
 }
+
+/* For Mobile Device */
+@media screen and (max-width: 513px) {
+  .button {
+    padding: 10px;
+  }
+}
